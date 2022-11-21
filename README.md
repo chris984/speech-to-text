@@ -1,4 +1,4 @@
-# flutter_speech_to_text
+# Speech to text using voice recognition
 
 Speech to text using voice recognition
 
