@@ -1,6 +1,13 @@
 # flutter_speech_to_text
 
-A new Flutter project.
+Speech to text using voice recognition
+
+## How to export this repo
+
+Open your text editor then open your terminal then
+
+type git clone 
+
 
 ## Getting Started
 
