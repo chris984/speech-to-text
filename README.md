@@ -6,7 +6,7 @@ Speech to text using voice recognition
 
 Open your text editor then open your terminal then
 
-type git clone 
+type git clone https://github.com/chris984/speech-to-text.git
 
 
 ## Getting Started
