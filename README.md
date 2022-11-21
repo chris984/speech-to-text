@@ -2,6 +2,8 @@
 
 Speech to text using voice recognition
 
+This project is for testing purposes only don't share this to anyone 
+
 ## How to export this repo
 
 Open your text editor then open your terminal then
